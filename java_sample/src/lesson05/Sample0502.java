@@ -15,6 +15,7 @@ public class Sample0502 {
 
         // 入力した文字列を数値に変換
         int num = Integer.parseInt(str);
+         
         System.out.println(num + "が入力されました。");
     }
 

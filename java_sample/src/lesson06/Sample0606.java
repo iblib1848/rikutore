@@ -8,8 +8,10 @@ public class Sample0606 {
         System.out.println("身長は" + dnum1 + "cmです。");
         System.out.println("体重は" + dnum2 + "kgです。");
 
-        int inum1 = (int) dnum1;
+        byte inum1 = (byte) dnum1;
         int inum2 = (int) dnum2;
+        
+       
 
         System.out.println("身長は" + inum1 + "cm です。");
         System.out.println("体重は" + inum2 + "kg です。");

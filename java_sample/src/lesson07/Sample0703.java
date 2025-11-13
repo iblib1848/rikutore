@@ -13,5 +13,6 @@ public class Sample0703 {
         height1[0] = 180;
 
         System.out.println("1人目の身長は" + height2[0] + "cmです。");
+        System.out.println("1人目の身長は" + height1[0] + "cmです。");
     }
 }

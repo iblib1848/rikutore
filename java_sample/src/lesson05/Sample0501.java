@@ -12,6 +12,12 @@ public class Sample0501 {
 
         String str = reader.readLine();
         System.out.println(str + "が入力されました。");
+        
+        
+        String str1  = "123";
+        System.out.println(str1 + 4);//①1234
+        int num = Integer.parseInt(str1);
+        System.out.println(num + 4); //②127
     }
 
 }
